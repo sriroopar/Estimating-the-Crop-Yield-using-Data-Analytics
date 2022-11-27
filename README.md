@@ -1,6 +1,4 @@
-# IBM-Project-11048-1659255891
-
-## Estimating the Crop Yield using Data Analytics
+# Estimating the Crop Yield using Data Analytics
 
 Agriculture is important for human survival because it serves basic needs. A well-known fact is that the majority of the population in India is into agriculture. Due to variations in climatic conditions, there exist bottlenecks for increasing crop production in India. It has become a challenging task to achieve desired targets in Agri based crop yield. Various factors are to be considered which have a direct impact on the production, and productivity of the crops. Crop yield prediction is one of the important factors in agriculture practices. Farmers need information regarding crop yield before sowing seeds in their fields to achieve enhanced crop yield. The use of technology in agriculture has increased in recent years and data analytics is one such trend that has penetrated into the agriculture field.In this project,IBM Cognos Analytics is used to understand and analyse various crop patterns and growth trends through dashboards that contain interactive visualizations.
 
@@ -49,6 +47,10 @@ Agriculture is important for human survival because it serves basic needs. A wel
 ## Final Demo Video
 
 [Presentation Video](https://youtu.be/SL4d9woWIbo)
+
+
+##Credits
+Project done as a part of the project-based experimental program,Nalaiya Thiran, a Tamil Nadu Government Initiative for Undergraduate Students in Final year.
 
 
 
