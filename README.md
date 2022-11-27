@@ -27,7 +27,7 @@ Agriculture is important for human survival because it serves basic needs. A wel
  [Crop Production Dataset](https://www.kaggle.com/datasets/abhinand05/crop-production-in-india)
  
  
-## Features
+## Features in the Data Set
 
 1. State Name - All the Indian State names.
 2. District Name -Different District names.
